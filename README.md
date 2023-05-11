@@ -1,1 +1,1 @@
-# This is my first repository
+# Getting start with the repository
